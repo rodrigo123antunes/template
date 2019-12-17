@@ -1,0 +1,18 @@
+{
+    "name": "react-native-template-rodrigo-basic",
+    "version": "0.0.2",
+    "description": "Template para projetos em React Native.",
+    "keywords": [
+        "react-native",
+        "template",
+        "eslint",
+        "react-navigation"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rodrigo123antunes/template.git"
+    },
+    "homepage": "https://github.com/rodrigo123antunes/template/blob/develop/README.md",
+    "author": "Rodrigo Antunes",
+    "license": "MIT"
+}
