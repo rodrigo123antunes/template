@@ -1,6 +1,6 @@
 {
     "name": "react-native-template-rodrigo-basic",
-    "private": true,
+    "private": false,
     "version": "0.0.2",
     "description": "Template para projetos em React Native.",
     "keywords": [
