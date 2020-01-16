@@ -45,7 +45,7 @@ template
 ├── dependencies.json
 ├── devDependencies.json
 ├── index.js
-├── metro.config.js.js
+├── metro.config.js
 ├── package.json
 └── README.md
 ```
